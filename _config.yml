@@ -6,12 +6,12 @@ github: https://github.com/ashutosh2k12
 about: Freelance developer
 
 
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+#baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
+#url: "https://codeasashu.github.io/hcz-jekyll-blog"
 
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
-=======
+#disqus_shortname: aboutashu
+#google_analytics: UA-72862926-1
+
 # Permalinks
 permalink:        pretty
 relative_permalinks: false
