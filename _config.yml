@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 title:            Site Title
 description:      Describe your website here.
 disqus_shortname: 
@@ -99,6 +100,18 @@ about: Programming and electronics hobbyist
 baseurl: "https://scropion86.github.io/"
 url: "https://scropion86.github.io/"
 
+=======
+title: Mohammed Lotfy
+description: My Personal Blog
+author: Mohammed Lotfy
+logo: "https://avatars0.githubusercontent.com/u/5569470?v=3&s=460"
+github: https://github.com/scropion86
+about: Programming and electronics hobbyist
+
+baseurl: "https://scropion86.github.io/"
+url: "https://scropion86.github.io/"
+
+>>>>>>> origin/master
 #disqus_shortname: aboutashu
 #google_analytics: UA-72862926-1
 
