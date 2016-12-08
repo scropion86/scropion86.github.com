@@ -5,24 +5,11 @@ logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/ashutosh2k12
 about: Freelance developer
 
+baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
+url: "https://codeasashu.github.io/hcz-jekyll-blog"
 
-#baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
-#url: "https://codeasashu.github.io/hcz-jekyll-blog"
-
-#disqus_shortname: aboutashu
-#google_analytics: UA-72862926-1
-
-# Permalinks
-permalink:        pretty
-relative_permalinks: false
-
-# Setup
-title:            Mohammed Lotfy
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
->>>>>>> origin/master
+disqus_shortname: aboutashu
+google_analytics: UA-72862926-1
 
 share:
   twitter_username: \#
