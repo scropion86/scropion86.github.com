@@ -1,37 +1,50 @@
 ---
 layout: post
 title: Introducing Hyde
+published: false
 ---
+# EgyIot ESp8266 PCB IOT board
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Hello Blynkers,
 
-### Built on Poole
+**as a new maker (5 months ) I just started using Arduino UNO and a breadboard but after that i know the limitation of that specially in connecting it to other thing. after that I start to see ESP8266 blowing everything else with very high potential and ideas. but ESP8266 is not breadboard friendly (before NodeMcu and Wemos D1/D1 mini shows up) and even if you create your own adapter you have to connect to many resistors and pull-up and Pull-down many pins to get the board in boot mode or flashing mode. even after that you will have many jumper wires and even with prototype board and soldering you will either have a big size board or clunky wires.**
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
+**as I start playing with Arduino and ESP8266 MCU I immediately think why not to use it to switch things on/off and what about control LED lights also so , I started that on breadboard and it's working , but again to much jumpers wires and endless issue because of the moving wires , and to do it in prototype board with a lot of soldering work and time it works fine but not looks like something I can use it in-wall electricity box so I start learning how to transfer my project from breadboard to PCB.**
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+**Learning EAGLE CAD for PCB layout and schematics , reading too many Datasheets of parts that I need to use it in my board like MOSFETs , Transistors , Relays etc. That takes me a lot of time and what I like that I learn a lot of things here that I will never know if I didn't go that farther in electronics. I designed the schematic and also Layout in EAGLE but because I live in Saudi Arabia – but I'm Egyptian – and all the parts and PCB has to be imported as I will never find a PCB Manufacturer or a Parts supplier here so any mistake will takes me along time and additional cost to re-manufacture the PCB and source the parts again. So I show my design in www.esp8266.com to get help in my schematic if any mistake or wrong part used and I can't describe how these guys helped me out to get the schematic With almost no error. Here I must thank the martinayotte and AdrianM from www.esp8266.com they helped me a lot to fix some mistakes in my**
 
-### Hyde features
+**PCB size**: 92X55 mm
 
-In addition to the features of Poole, Hyde adds the following:
+**MCU** : ESP8266/ESP-12F
 
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/hyde#themes), available via `<body>` classes
+**power**:
 
-[Head to the readme](https://github.com/poole/hyde#readme) to learn more.
+* Built in power supply AC/DC 5V@0.6A
+* 3.3V regulator for ESP-12F
+* 12V power input for LED strip
 
-### Browser support
+**Relays:** 3 relay 10A (advised to use it up to 3A max).
 
-Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
+**LED strip :** 3 channel – RGB – LED strip supported(advised 3A max per channel).
 
-### Download
+**GPIOs** all the GPIOs is broken to a male header if you want to use it for a different purpose.
 
-Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
+**EAGLE CAD layout**
 
-Thanks!
+![enter image description here][1]
+
+**PCB after manufactured**
+
+![enter image description here][2]
+
+**the complete Board with parts**
+
+![enter image description here][3]
+
+**Disclaimer**
+
+I accept no responsibility for any damage caused through following advice in these pages. When dealing with mains voltages.Please take some professional electronic designer before to use any of my designs or advises as I am totally Hobbyist just doing this for Fun.
+
+[1]: http://i.imgur.com/HsqmZqa.png
+[2]: http://i.imgur.com/RxTpbJ2.jpg
+[3]: http://i.imgur.com/CbHJjro.png
