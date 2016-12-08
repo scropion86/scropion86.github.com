@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing Hyde
-published: false
+published: true
 ---
 # EgyIot ESp8266 PCB IOT board
 
