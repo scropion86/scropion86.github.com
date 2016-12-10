@@ -7,7 +7,7 @@ image:
   creditlink: >-
     http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: false
-modified: {}
+modified: 15/12/2015
 published: true
 ---
 **In short a typical hobbyist** , who is self-learned programmer who knows C,C++,C# and VB.
