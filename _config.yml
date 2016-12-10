@@ -1,23 +1,23 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Mohammed Lotfy
+description:      Just another hobbyist programmer and IOT electronics designer
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+url: https://scropion86.github.io/
 
 # Owner/author information
 owner:
   name:           Mohammed lotfy
-  avatar:         avatar.jpg
+  avatar:         logo.png
   bio:            "Just another hobbyist programmer and IOT electronics designer"
   email:          scropion86@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:   scropion86     
   facebook:       scropion86
   github:         scropion86
-  stackexchange:  scropion86
+  stackexchange:  
   linkedin:       
   instagram:      
   flickr:         
@@ -35,7 +35,7 @@ google_verify:      "3Abr_-tyIocTIaVBhQ4nfUcMXpXoFO3KH1vjEMj3Tas"
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    	Asia/Riyadh
 future:      false  # publish future dated posts --  true, false (default) 
 highlighter: rouge
 markdown:    kramdown
