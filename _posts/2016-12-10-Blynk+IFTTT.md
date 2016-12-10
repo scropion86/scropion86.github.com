@@ -1,5 +1,14 @@
 ---
 published: true
+layout: post
+description: Demo post displaying the various ways of highlighting code in Markdown.
+modified: 15/10/2015
+tags:
+  - IFTTT
+  - Blynk
+  - IOT
+image:
+  feature: header1.jpg
 ---
 # Blynk + IFTTT configuration
 
