@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # EgyIot ESp8266 PCB IOT board
 
