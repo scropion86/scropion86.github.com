@@ -12,10 +12,10 @@ owner:
   name:           Mohammed lotfy
   avatar:         logo.png
   bio:            "Just another hobbyist programmer and IOT electronics designer"
-  email:          scropion86@gmail.com
+  email:          
   # Social networking links used in footer. Update and remove as you like.
   twitter:   scropion86     
-  facebook:       scropion86
+  facebook:       
   github:         scropion86
   stackexchange:  
   linkedin:       
@@ -52,7 +52,7 @@ sass:
 permalink:   /:categories/:title/
 
 # Amount of post to show on home page
-paginate: 5
+paginate: 3
 
 kramdown:
   input: GFM
