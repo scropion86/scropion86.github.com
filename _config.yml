@@ -30,7 +30,7 @@ background:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
-google_verify:      
+google_verify:      "3Abr_-tyIocTIaVBhQ4nfUcMXpXoFO3KH1vjEMj3Tas"
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
