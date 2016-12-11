@@ -7,8 +7,7 @@ tags:
   - IFTTT
   - Blynk
   - IOT
-image:
-  feature: header1.jpg
+
 ---
 
 
