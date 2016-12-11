@@ -1,7 +1,6 @@
 ---
 published: true
 layout: post
-comments: false
 description: a small intro into IOT with my own design of PCB
 modified: 15/10/2015
 tags:
