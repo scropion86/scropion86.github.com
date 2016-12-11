@@ -7,8 +7,10 @@ tags:
   - IFTTT
   - Blynk
   - IOT
-[//]: #image:
-[//]: #  feature: header1.jpg
+[//]:   # we use this also for comments
+[//]:   #image:
+[//]:   #  feature: header1.jpg
+
 ---
 # Blynk + IFTTT configuration
 
