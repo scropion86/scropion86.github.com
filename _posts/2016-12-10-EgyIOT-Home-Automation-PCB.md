@@ -1,15 +1,18 @@
 ---
 published: true
 layout: post
+cpmments: false
 description: a small intro into IOT with my own design of PCB
 modified: 15/10/2015
 tags:
   - IFTTT
   - Blynk
   - IOT
-image:
   feature: header1.jpg
 ---
+
+
+
 # EgyIot ESp8266 PCB IOT board
 
 Hello Blynkers,
