@@ -18,7 +18,7 @@ tags:
 
 **Hi**
 
-**as the great Blynk team is working on many new features and widgets , and they already promise to provide the push button trigger "as set an icon on your home screen to activate an GPIO on your board" but i think this maybe will take them some time, so tried to use [IFTTT][2] to be integrated with Blynk.**
+**as the great Blynk team is working on many new features and widgets , and they already promise to provide the push button trigger-Already provided- "as set an icon on your home screen to activate an GPIO on your board" but i think this maybe will take them some time, so tried to use [IFTTT][2] to be integrated with Blynk.**
 
 also you can use IFTTT to do some Automation based on other service -IFTTT call it channels – you have and that will actuate and change the values of your hardware running Blynk .
 
@@ -47,7 +47,7 @@ that can be used for many thing but here i will go for the basic tasks like clic
 
 * open your Blynk dashboard that will be connected to IFTTT and write down the token also you need to Know which GPIO or PIN you need to control eather it's actuall PIN or Virtual.
 
-> Please note that token is has to be kept private as any body have your token can control your Hardware.
+> Please note that token is has to be kept private as anybody have your token can control your Hardware.
 
 * Open DO App in your phone.
 * Click on the `+` bar in the top middle.
