@@ -14,5 +14,5 @@ published: true
 And recently I started to play with electronics and knowing MCU which directly takes me
 To IOT and connected devices and automation.
 Mainly I used [Arduino boards Nano , UNO , pro mini](https://www.arduino.cc/) and for IOT and WIFI enabled things
-I mainly use the [espressif esp8266](https://espressif.com/en/products/hardware/esp8266ex/overview) which I use it to make my first every PCB layout and designed 
-EgyIOT home Automation PCB.
+I mainly use the [espressif esp8266](https://espressif.com/en/products/hardware/esp8266ex/overview) which I use it to make my first PCB layout and designed EgyIOT home Automation PCB.
+
