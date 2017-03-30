@@ -46,6 +46,10 @@ Learning EAGLE CAD for PCB layout and schematics , reading too many Datasheets o
 
 ![enter image description here][2]
 
+
+**the PCB with all parts exibrt ESP-12F**
+![enter image description here][4]
+
 **the complete Board with parts**
 
 ![enter image description here][3]
@@ -57,3 +61,4 @@ I accept no responsibility for any damage caused through following advice in the
 [1]: http://i.imgur.com/HsqmZqa.png
 [2]: http://i.imgur.com/RxTpbJ2.jpg
 [3]: http://i.imgur.com/CbHJjro.png
+[4]: http://i.imgur.com/FuJos8V.jpg
