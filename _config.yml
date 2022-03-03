@@ -1,7 +1,7 @@
 title: "Mohammed Lotfy Tech Blog"
 email: email@email.com
 timezone: UTC+3
-baseurl: "/affiliates-jekyll-theme"
+baseurl: ''
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
