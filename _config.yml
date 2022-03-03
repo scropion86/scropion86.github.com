@@ -1,7 +1,7 @@
-title: "Mohammed Lotfy Tech Blog"
-email: email@email.com
-timezone: UTC+3
-baseurl: ''
+title: "Affiliates"
+email: wowthemesnet@gmail.com
+timezone: UTC
+baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -24,28 +24,29 @@ ganalytics: UA-113961478-1
 
 # Authors
 authors:
-  Mohammed:
-    name: Mohammed Lotfy
-    display_name: Mohammed Lotfy
+  sal:
+    name: Sal
+    display_name: Sal
     avatar: 'assets/images/sal.png'
-    email: email@gmail.com
-    web: 
-    twitter: 
-    description: ""
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net/category/jekyll-themes/
+    twitter: https://twitter.com/wowthemesnet
+    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   john:
-    name: 
-    display_name: 
-    avatar: 
-    email: 
-    web: 
-    twitter: 
-    description: 
+    name: John
+    display_name: John
+    avatar: 'assets/images/john.png'
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net/category/jekyll-themes/
+    twitter: https://twitter.com/wowthemesnet
+    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
 
 # Social
 social:
-  instagram: 
-  facebook: 
-  twitter: 
+  instagram: https://www.instagram.com/bootstrapstarter/
+  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
+  twitter: https://twitter.com/bstartercom
+
 # Plugins
 plugins: 
 - jekyll-paginate
