@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Tree of Codes"
+title:  "EGYIOT Home Automation"
 author: mohammed
-categories: [ Jekyll, tutorial ]
+categories: [ ESP8266, Automation , PCB ]
 image: assets/images/2.jpg
 comments: false
 ---
