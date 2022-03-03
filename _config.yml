@@ -1,0 +1,55 @@
+title: "Mohammed Lotfy Tech Blog"
+email: email@email.com
+timezone: UTC+3
+baseurl: "/affiliates-jekyll-theme"
+permalink: "/:title/"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+author: Sal
+paginate: 30
+disqus: 'demowebsite'
+locale: en_us
+lang: en_us
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: UA-113961478-1
+
+# Authors
+authors:
+  Mohammed:
+    name: Mohammed Lotfy
+    display_name: Mohammed Lotfy
+    avatar: 'assets/images/sal.png'
+    email: email@gmail.com
+    web: 
+    twitter: 
+    description: ""
+  john:
+    name: 
+    display_name: 
+    avatar: 
+    email: 
+    web: 
+    twitter: 
+    description: 
+
+# Social
+social:
+  instagram: 
+  facebook: 
+  twitter: 
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
