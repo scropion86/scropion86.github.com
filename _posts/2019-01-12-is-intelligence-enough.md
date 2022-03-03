@@ -4,6 +4,7 @@ title:  "Is Intelligence Enough"
 author: mohammed
 categories: [ Jekyll, tutorial ]
 image: assets/images/5.jpg
+comments: false
 ---
 Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one's self is very difficult. 
 
