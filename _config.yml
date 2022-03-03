@@ -5,7 +5,7 @@ baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Mohammed
+author: mohammed
 paginate: 30
 disqus: 'demowebsite'
 locale: en_us
