@@ -3,7 +3,7 @@ layout: post
 title:  "EGYIOT Home Automation"
 author: mohammed
 categories: [ ESP8266, Automation , PCB ]
-image: assets/images/2.jpg
+image: /assets/images/eagle.png
 comments: false
 disqus: false
 ---
