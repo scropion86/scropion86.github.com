@@ -5,6 +5,7 @@ author: mohammed
 categories: [ ESP8266, Automation , PCB ]
 image: assets/images/2.jpg
 comments: false
+disqus: false
 ---
 as a new maker (5 months ) I just started using Arduino UNO and a breadboard but after that i know the limitation of that specially in connecting it to other thing. after that I start to see ESP8266 blowing everything else with very high potential and ideas. but ESP8266 is not breadboard friendly (before NodeMcu and Wemos D1/D1 mini shows up) and even if you create your own adapter you have to connect to many resistors and pull-up and Pull-down many pins to get the board in boot mode or flashing mode. even after that you will have many jumper wires and even with prototype board and soldering you will either have a big size board or clunky wires.
 
