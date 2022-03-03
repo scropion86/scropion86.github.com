@@ -1,11 +1,11 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
+title: "Mohammed Lotfy Tech Blog"
+email: email@email.com
 timezone: UTC
 baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: Mohammed
 paginate: 30
 disqus: 'demowebsite'
 locale: en_us
@@ -25,8 +25,8 @@ ganalytics: UA-113961478-1
 # Authors
 authors:
   mohammed:
-    name: Moammed_Lotfy
-    display_name: Moammed_Lotfy
+    name: Moammed Lotfy
+    display_name: Moammed Lotfy
     avatar: 'assets/images/sal.png'
     #email: wowthemesnet@gmail.com
     #web: https://www.wowthemes.net/category/jekyll-themes/
@@ -36,9 +36,9 @@ authors:
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  #instagram: https://www.instagram.com/bootstrapstarter/
+  #facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
+  #twitter: https://twitter.com/bstartercom
 
 # Plugins
 plugins: 
