@@ -4,11 +4,11 @@ topmenu:
 - title: Home
   url: ""
 
-#- title: About
-#  url: "about/"
+- title: About
+  url: "about/"
 
-- title: Contact
-  url: "contact/"
+#- title: Contact
+#  url: "contact/"
 
 #- title: Get this theme  
   #url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
